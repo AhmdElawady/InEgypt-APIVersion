@@ -1,0 +1,34 @@
+PODS:
+  - Connectivity (5.0.0)
+  - FloatingPanel (2.5.4)
+  - Nuke (10.7.1)
+  - SideMenu (6.5.0)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - Connectivity
+  - FloatingPanel
+  - Nuke
+  - SideMenu
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Connectivity
+    - FloatingPanel
+    - Nuke
+    - SideMenu
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Connectivity: e990703fb8d8db54649ea05facac92000cc0f3eb
+  FloatingPanel: 387377aa46a9b088e5f8f5f2a8d2c00c61e67298
+  Nuke: 279f17a599fd1c83cf51de5e0e1f2db143a287b0
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: ea8c3c819a24a84c08f37f10a1f2567a1a6cdedf
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,197 @@
+/* 
+  Localizable.strings
+  InEgypt
+
+  Created by Awady on 8/25/20.
+  Copyright © 2020 AwadyStore. All rights reserved.
+*/
+
+
+"appLanguage" = "ar";
+
+// Home Localization
+"Check Out Hidden Gems" = "افحص الجواهر المخفاه";
+"Take A Tour Of " = "خذ جولة في ";
+"Nearby" = "حولك";
+"No Attractions Around You" = "لا يوجد معالم حولك";
+"Explore Cities" = "اكتشف المدن";
+"More" = "اكثر";
+"Custom" = "ضبط";
+"All Cities" = "كل المدن";
+"Attraction" = "معلم";
+"Spot" = "متنزه";
+"No Destinations Around You!" = "لا يوجد اماكن حولك!";
+
+// Menu Localization
+"Destinations" = "وجهات";
+"Categories" = "فئات";
+"Cities" = "مدن";
+"Language" = "English";
+"Rate Us" = "قيمنا";
+"About InEgypt" = "عن ان ايجيبت";
+"Privacy & Policy" = "السياسة والخصوصية";
+"Setting" = "الاعدادات";
+"Version No." = "رقم الاصدار";
+
+// Search Localization
+"Destinations" = "وجهات"; // repeated in Menu
+"Attractions" = "معالم"; // repeated in Home
+"Spots" = "متنزهات"; // repeated in Home
+"Search Destinations" = "ابحث عن الاماكن";
+"Categories & Activities" = "الاقسام والانشطة";
+"Browse by Cities" = "المدن";
+"Explore" = "اكتشف";
+//"Nearby" = "اماكن قريبة";
+
+// Details Localization
+"Description" = "وصف";
+"Images" = "الصور";
+"Gallery" = "معرض صور";
+"Maps & Locations" = "خرائط ومواقع";
+"Nearby Spots" = "اماكن قريبة";
+"Rating & Reviews" = "تقييم و تعليقات";
+"Ticket Prices" = "اسعار التذكره";
+"ATTRACTION" = "معلم";
+"SPOT" = "متنزه";
+
+// Map Alert
+"Choose Maps" = "اختر الخرائط";
+"Cancel" = "الغاء";
+"Maps" = "خرائط";
+"Google Maps" = "خرائط جوجل";
+"locationDisabled" = "موقعك تم اغلاقه";
+"directionAlertDescription" = "من فضلك فعل موقعك من الأعدادات حتى نتمكن من دعم طرق الوجهه";
+"OK" = "تمام";
+" km" = " كم";
+"ADD A REVIEW" = "اضف تعليق";
+"No result found in this area" = "لا يوجد نتائج في هذه المنطقة";
+
+// Rating And Reviews
+"Ratings & Reviews" = "تقييمات و تعليقات";
+"No Reviews!" = "لا يوجد تعليقات!";
+"Help the community and share your thoughts" = "ساعد المجتمع وشارك ارائك";
+
+// Add Review
+"Add a Review" = "اضف تعليق";
+"Tap a Star to Rate" = "اضغط على نجمه للتقييم";
+"Name:" = "الاسم:";
+"Review:" = "التعليق:";
+"SUBMIT" = "تاكيد";
+"Cancel" = "الغاء";
+"Send" = "ارسل";
+"Rate at least 1 Star" = "التقييم على الاقل نجمه واحده";
+"Your Name Required" = "اسمك مطلوب";
+"Give A Comment Please" = "اضف تعليق من فضلك";
+"Done" = "تم";
+"Thanks for reviewing :)" = ":) شكرا على تعليقك";
+"Repeated!" = "مكرر!";
+"You already have a comment there" = "لديك تعليق هنا بالفعل";
+
+
+// Ticket
+"Egyptions: " = "مصريين: ";
+"Adults: " = "بالغين: ";
+"Students: " = "طلبه: ";
+"Forigns: " = "اجانب: ";
+"Forign Students: " = "طلبه اجانب: ";
+" per ticket" = "للتذكره ";
+"EGP" = " جنيه";
+
+// Categories Localization
+"Categories" = "فئات";
+"Activities" = "انشطه";
+"Sections" = "اقسام";
+"Search" = "ابحث";
+"Cancel" = "الغاء";
+
+// City Localization
+"Get Map" = "افتح الخريطه";
+"Overview" = "نظره عامه";
+"Destinations" = "وجهات"; // repeated in Menu
+"See All" = "الكل";
+"ATTRACTIONS" = "المعالم";
+"SPOTS" = "المتنزهات";
+
+// Cities Localization
+"Cities" = "مدن";
+"Attractions" = "معالم"; //repeated in Home City
+"Spots" = "متنزهات"; // repeated in Home City
+
+// Nearby Localization
+"Attractions" = "معالم"; //repeated in Home City
+"Spots" = "متنزهات"; // repeated in Home City
+"All" = "الكل";
+"Location Disabled" = "موقعك تم اغلاقه"; // Repeated in Map
+"EnableLocationDescription" = "من فضلك فعل موقعك حتى تساعدنا من عرض الاماكن المجاورة حولك ومعرفة المسافات";
+"Enable" = "فعّل";
+"RESULTS" = "نتائج";
+"RADIUS" = "مسافه";
+
+// CreateTrip Localization
+"Contact Information" = "معلومات التواصل";
+"Your Name" = "اسمك";
+"Enter your name" = "ادخل اسمك";
+"Phone Number" = "رقم التليفون";
+"Trip Information" = "معلومات الرحله";
+"Add Destinations" = "اضف وجهات";
+"Adults " = "بالغين ";
+"Childs " = "اطفال ";
+"Rooms " = "غرف ";
+"Budget(person) " = "المطلوب دفعه (شخص) ";
+"More Preferences" = "تفضيلات اخرى";
+"Near to Nile river, Soft all inclusive..." = "قريب من نهر النيل ، شامل جميع الوجبات";
+"Send Request" = "ارسل الطلب";
+"Hotel Preferences" = "تفضيلات الفندق";
+"Beach " = "شاطئ ";
+"Aqua Park " = "ملاهي مائيه ";
+"Stars " = "النجوم ";
+"Create A Trip" = "انشأ رحله";
+"From " = "من ";
+"To " = "الى ";
+"Sandy" = "رملي";
+"Rocky" = "صخري";
+"Any" = "اي";
+"Yes" = "نعم";
+"Any" = "اي";
+"Stars" = "النجوم";
+
+// City Destinations Localization
+"In" = "في ";
+
+// Base View Controller
+"Connection lost" = "تم فقد الاتصال";
+"Check your internet connection" = "رجاء قم بفحص الاتصال بالانترنت";
+"No internet connection" = "لا يوجد اتصال بالانترنت.";
+"Try again" = "اعد المحاولة";
+
+// AboutUs Localization
+"aboutUs1" = "";
+"aboutUs2" = "ان ايجيبت هو مرجع سياحي وترفيهي داخل مصر يهدف الى توفير المعلومات والبيانات اللازمه لتخطيط رحلتك القادمه.";
+"aboutUs3" = "هدفنا الاختيار الامثل لوجهتك والوصول اليها دون عناء البحث او القرارات الخاطئه.";
+"aboutUs4" = "نسعى لتكون على درايه بكل جديد في مصر سياحيا وثقافيها وترفيهيا.";
+"aboutUs5" = "";
+
+
+"language" = "ar";
+
+
+"Ok" = "تمام";
+
+
+"Archeological" = "المواقع الاثرية";
+"Historical" = "المواقع التاريخية";
+"Mosque" = "المساجد التاريخية";
+"Museum" = "المتاحف";
+"Nature reserve" = "المحميات الطبيعية";
+"Palace" = "القصور التاريخية";
+"Nature" = "الطبيعة الساحرة";
+
+// Connectivity translations
+"Internet access" = "تم الاتصال بالانترنت";
+"Cellular with Internet access" = "تم الاتصال خلال انترنت الهاتف";
+"Cellular without Internet access" = "لا يوجد اتصال خلال انترنت الهاتف";
+"Wi-Fi with Internet access" = "تم الاتصال خلال انترنت واي فاي";
+"Wi-Fi without Internet access" = "لا يوجد اتصال خلال انترنت واي فاي";
+"Connectivity checks pending" = "فحص الاتصال معلق";
+"No Connection" = "لا يوجد اتصال بالانترنت";
+"Something wrong with network connection" = "يوجد خطأ ما في الاتصال بالشبكة";

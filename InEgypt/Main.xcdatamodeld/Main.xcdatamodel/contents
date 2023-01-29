@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19G73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Activity" representedClassName="Activity" syncable="YES" codeGenerationType="class">
+        <attribute name="image" attributeType="String"/>
+        <attribute name="name" attributeType="String"/>
+        <relationship name="attraction" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Attraction" inverseName="activity" inverseEntity="Attraction"/>
+    </entity>
+    <entity name="Around" representedClassName="Around" syncable="YES" codeGenerationType="class">
+        <relationship name="attraction" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Attraction" inverseName="around" inverseEntity="Attraction"/>
+    </entity>
+    <entity name="Attraction" representedClassName="Attraction" syncable="YES" codeGenerationType="class">
+        <attribute name="about" optional="YES" attributeType="String"/>
+        <attribute name="id" attributeType="Integer 16" usesScalarValueType="YES"/>
+        <attribute name="image" optional="YES" attributeType="String"/>
+        <attribute name="isFavourite" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="poster" optional="YES" attributeType="String"/>
+        <relationship name="activity" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Activity" inverseName="attraction" inverseEntity="Activity"/>
+        <relationship name="around" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Around" inverseName="attraction" inverseEntity="Around"/>
+        <relationship name="city" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="City" inverseName="attraction" inverseEntity="City"/>
+    </entity>
+    <entity name="City" representedClassName="City" syncable="YES" codeGenerationType="class">
+        <attribute name="about" optional="YES" attributeType="String"/>
+        <attribute name="area" optional="YES" attributeType="String"/>
+        <attribute name="image" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="population" optional="YES" attributeType="String"/>
+        <attribute name="residency" optional="YES" attributeType="String"/>
+        <relationship name="attraction" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Attraction" inverseName="city" inverseEntity="Attraction"/>
+    </entity>
+    <elements>
+        <element name="Activity" positionX="-265.1640625" positionY="-68.4765625" width="128" height="88"/>
+        <element name="Around" positionX="-313.3984375" positionY="93.8125" width="128" height="58"/>
+        <element name="Attraction" positionX="-11" positionY="127.21484375" width="128" height="208"/>
+        <element name="City" positionX="-311.48828125" positionY="194.0234375" width="128" height="148"/>
+    </elements>
+</model>

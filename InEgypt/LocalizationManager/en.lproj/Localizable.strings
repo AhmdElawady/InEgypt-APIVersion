@@ -1,0 +1,200 @@
+/* 
+  Localizable.strings
+  InEgypt
+
+  Created by Awady on 8/25/20.
+  Copyright © 2020 AwadyStore. All rights reserved.
+*/
+
+
+"appLanguage" = "en";
+
+// Home Localization
+"Check Out Hidden Gems" = "Check Out Hidden Gems";
+"Take A Tour Of " = "Take A Tour Of ";
+"Nearby" = "Nearby";
+"No Attractions Around You" = "No Attractions Around You";
+"Explore Cities" = "Explore Cities";
+"More" = "More";
+"Custom" = "Custom";
+"All Cities" = "All Cities";
+"Attraction" = "Attraction";
+"Spot" = "Spot";
+"No Destinations Around You!" = "No Destinations Around You!";
+
+// Menu Localization
+"Destinations" = "Destinations";
+"Categories" = "Categories";
+"Cities" = "Cities";
+"Language" = "عربي";
+"Rate Us" = "Rate Us";
+"About InEgypt" = "About InEgypt";
+"Privacy & Policy" = "Privacy & Policy";
+"Setting" = "Setting";
+"Version No." = "Version No.";
+
+// Search Localization
+"Destinations" = "Destinations"; // repeated in Menu
+"Attractions" = "Attractions"; // repeated in Home
+"Spots" = "Spots"; // repeated in Home
+"Search Destinations" = "Search Destinations";
+"Categories & Activities" = "Categories & Activities";
+"Cities" = "Cities";
+"Explore" = "Explore";
+"Nearby" = "Nearby";
+
+// Details Localization
+"Description" = "Description";
+"Images" = "Images";
+"Gallery" = "Gallery";
+"Maps & Locations" = "Maps & Locations";
+"Nearby Spots" = "Nearby Spots";
+"Rating & Reviews" = "Rating & Reviews";
+"Ticket Prices" = "Ticket Prices";
+"ATTRACTION" = "ATTRACTION";
+"SPOT" = "SPOT";
+
+// Map Alert
+"Choose Maps" = "Choose Maps";
+"Cancel" = "Cancel";
+"Maps" = "Maps";
+"Google Maps" = "Google Maps";
+"locationDisabled" = "Location Disabled";
+"directionAlertDescription" = "Please enable your location from settings to be able provide a direction routes";
+"OK" = "OK";
+" km" = " km";
+"ADD A REVIEW" = "ADD A REVIEW";
+"No result found in this area" = "No result found in this area";
+
+// Reting And Reviews
+"Ratings & Reviews" = "Ratings & Reviews";
+"No Reviews!" = "No Reviews!";
+"Help the community and share your thoughts" = "Help the community and share your thoughts";
+
+// Add Review
+"Add a Review" = "Add a Review";
+"Tap a Star to Rate" = "Tap a Star to Rate";
+"Name:" = "Name:";
+"Review:" = "Review:";
+"SUBMIT" = "SUBMIT";
+"Cancel" = "Cancel";
+"Send" = "Send";
+"Rate at least 1 Star" = "Rate at least 1 Star";
+"Your Name Required" = "Your Name Required";
+"Give A Comment Please" = "Give A Comment Please";
+"Done" = "Done";
+"Thanks for reviewing :)" = "Thanks for reviewing :)";
+"Repeated!" = "Repeated!";
+"You already have a comment there" = "You already have a comment there";
+
+// Ticket
+"Egyptions: " = "Egyptions: ";
+"Adults: " = "Adults: ";
+"Students: " = "Students: ";
+"Forigns: " = "Forigns: ";
+"Forign Students: " = "Forign Students: ";
+" per ticket" = " per ticket";
+"EGP" = " EGP";
+
+// Categories Localization
+"Categories" = "Categories";
+"Activities" = "Activities";
+"Sections" = "Sections";
+"Search" = "Search";
+"Cancel" = "Cancel";
+
+// City Localization
+"Get Map" = "Get Map";
+"Overview" = "Overview";
+"Destinations" = "Destinations"; // repeated in Menu
+"See All" = "See All";
+"ATTRACTIONS" = "ATTRACTIONS";
+"SPOTS" = "SPOTS";
+
+// Cities Localization
+"Cities" = "Cities";
+"Attractions" = "Attractions"; //repeated in Home City
+"Spots" = "Spots"; // repeated in Home City
+
+// Nearby Localization
+"Attractions" = "Attractions"; //repeated in Home City
+"Spots" = "Spots"; // repeated in Home City
+"All" = "All";
+"Location Disabled" = "Location Disabled";
+"EnableLocationDescription" = "Enable your location to help us find nearby destinations and generate distances";
+"Enable" = "Enable";
+"RESULTS" = "RESULTS";
+"RADIUS" = "RADIUS";
+
+// CreateTrip Localization
+"Contact Information" = "Contact Information";
+"Your Name" = "Your Name";
+"Enter your name" = "Enter your name";
+"Phone Number" = "Phone Number";
+"Trip Information" = "Trip Information";
+"Add Destinations" = "Add Destinations";
+"Adults " = "Adults ";
+"Childs " = "Childs ";
+"Rooms " = "Rooms ";
+"Budget(person) " = "Budget(person) ";
+"More Preferences" = "More Preferences";
+"Near to Nile river, Soft all inclusive..." = "Near to Nile river, Soft all inclusive...";
+"Send Request" = "Send Request";
+"Hotel Preferences" = "Hotel Preferences";
+"Beach " = "Beach ";
+"Aqua Park " = "Aqua Park ";
+"Stars " = "Stars ";
+"Create A Trip" = "Create A Trip";
+"From " = "From ";
+"To " = "To ";
+"Sandy" = "Sandy";
+"Rocky" = "Rocky";
+"Any" = "Any";
+"Yes" = "Yes";
+"Any" = "Any";
+"Stars" = "Stars";
+
+// City Destinations Localization
+"In" = "In ";
+
+// Base View Controller
+"Connection lost" = "Connection lost";
+"Check your internet connection" = "Check your internet connection";
+"No internet connection" = "No internet connection";
+"Try again" = "Try again";
+
+
+// AboutUs Localization
+"aboutUs1" = "";
+"aboutUs2" = "InEgypt is a tourist and entertainment guide in Egypt that aims to provide the information and necessary data to plan your next trip.";
+"aboutUs3" = "Our goal is the optimal choice of your destination and access to it without the trouble of searching or taking wrong decisions.";
+"aboutUs4" = "We seek to be aware of everything new in Egypt such as tourism, culture and entertainment.";
+"aboutUs5" = "";
+
+"language" = "en";
+
+
+
+"Ok" = "Ok";
+
+
+
+"Archeological" = "Archeological Sightseeing";
+"Historical" = "Historical Sightseeing";
+"Mosque" = "Historical Mosques";
+"Museum" = "Museums";
+"Nature reserve" = "Nature reserves";
+"Palace" = "Palaces";
+"Nature" = "Nature";
+
+
+// Connectivity translations
+"Internet access" = "Internet access";
+"Cellular with Internet access" = "Cellular with Internet access";
+"Cellular without Internet access" = "Cellular without Internet access";
+"Wi-Fi with Internet access" = "Wi-Fi with Internet access";
+"Wi-Fi without Internet access" = "Wi-Fi without Internet access";
+"Connectivity checks pending" = "Connectivity checks pending";
+"No Connection" = "No Connection";
+"Something wrong with network connection" = "Something wrong with network connection";
+
